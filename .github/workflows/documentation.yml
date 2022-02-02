@@ -23,14 +23,13 @@ jobs:
       working-directory: ${{github.workspace}}
       run: |
         git gc
-        git pull
         git reset --hard "210fb7c819a79eeb75163eee3bf7ccf7b66fcdd5"
         git clean -fdx
         API_BRIDGE_TAG="main"
         tmp_dir=$(mktemp -d)
         DOCTARGETDIR=$PWD
         cd $tmp_dir
-        git clone https://github.com/hebench/frontend.git
+        git clone https://github.com/kylanerace/frontend.git
         cd frontend
         if [ -f cmake/third-party/API_BRIDGE.version ]; then
             API_BRIDGE_TAG=$(scripts/read_version.sh cmake/third-party/API_BRIDGE.version)
