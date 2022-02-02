@@ -1,4 +1,4 @@
-# HEBench
+# HEBench test
 
 ## Table of Contents
 1. [Requirements](#requirements1)
