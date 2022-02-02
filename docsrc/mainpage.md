@@ -1,4 +1,4 @@
-\mainpage HEBench Documentation Main Page
+\mainpage HEBench Documentation Main Page blahblahblah
 
 ##Overview
 HEBench is designed to be a flexible, extendable, intuitive and reliable framework for testing and evaluating homomorphic encryption software and hardware solutions. It defines an abstraction API in C to enable integration with the widest variety of hardware and software and executes high level tests using a front end application which feeds data to supported HE backends through the APIBridge component, generating detailed performance reports and verifying the accuracy of the returned results. 
