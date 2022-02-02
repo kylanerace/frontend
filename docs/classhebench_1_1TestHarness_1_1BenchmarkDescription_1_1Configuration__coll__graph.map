@@ -1,0 +1,6 @@
+<map id="hebench::TestHarness::BenchmarkDescription::Configuration" name="hebench::TestHarness::BenchmarkDescription::Configuration">
+<area shape="rect" id="node1" title="Specifies a benchmark configuration." alt="" coords="120,213,299,269"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,117,208,143"/>
+<area shape="rect" id="node3" title=" " alt="" coords="232,109,451,151"/>
+<area shape="rect" id="node4" href="$namespacehebench_1_1APIBridge.html#structhebench_1_1APIBridge_1_1WorkloadParam" title="Defines a single workload parameter." alt="" coords="267,5,415,47"/>
+</map>

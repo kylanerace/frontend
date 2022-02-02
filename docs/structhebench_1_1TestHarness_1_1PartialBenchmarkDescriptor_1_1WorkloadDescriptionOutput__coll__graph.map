@@ -1,0 +1,5 @@
+<map id="hebench::TestHarness::PartialBenchmarkDescriptor::WorkloadDescriptionOutput" name="hebench::TestHarness::PartialBenchmarkDescriptor::WorkloadDescriptionOutput">
+<area shape="rect" id="node1" title="Bundles values that need to be filled by a workload during completeWorkloadDescription()." alt="" coords="5,200,217,256"/>
+<area shape="rect" id="node2" title=" " alt="" coords="68,96,155,123"/>
+<area shape="rect" id="node3" title=" " alt="" coords="42,5,181,47"/>
+</map>
